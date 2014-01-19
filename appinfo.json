@@ -1,0 +1,23 @@
+{
+  "uuid": "51065919-cbe4-4cfd-bb66-8ab08bf05852",
+  "shortName": "basic_face",
+  "longName": "basic_face",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+    	{
+		"type": "png",
+		"name": "IMAGE_CHARGING",
+		"file": "images/charging.png"
+	}
+    ]
+  }
+}
